@@ -1,2 +1,2 @@
 # belajar-git-zaky
-belajar bareng arnanda
+belajar bareng arnanda tentang git
